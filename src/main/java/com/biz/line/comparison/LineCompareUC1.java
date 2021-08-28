@@ -15,7 +15,7 @@ public class LineCompareUC1 {
         System.out.println("enter y2 value");
         Integer y2=sc.nextInt();
         Integer length=(int)Math.sqrt(x2-x1)^2+(y2-y1)^2;
-        System.out.println(length);
+        System.out.println("length :"+length);
     }
 }
 
